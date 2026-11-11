@@ -1,6 +1,6 @@
 # PASS_AI-MCP
 
-![저장소 안내 · PASS_AI-MCP의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/4225c2a517e5917cab196b11c5817a3ab532f08d/assets/repositories/PASS_AI-MCP.webp)
+![저장소 안내 · PASS_AI-MCP의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/49de0028cf64f6f32ef9803bf0e321bc1d10ff19/assets/covers/v0.1/PASS_AI-MCP.svg)
 
 PASS_AI-MCP의 공개 안내 페이지입니다.
 
